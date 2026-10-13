@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/KaustubhaChhanda/submissions/tree/master/2536-increment-submatrices-by-one) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/KaustubhaChhanda/submissions/tree/master/3668-restore-finishing-order) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KaustubhaChhanda/submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/KaustubhaChhanda/submissions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KaustubhaChhanda/submissions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaustubhaChhanda/submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KaustubhaChhanda/submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaustubhaChhanda/submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KaustubhaChhanda/submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KaustubhaChhanda/submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KaustubhaChhanda/submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KaustubhaChhanda/submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
