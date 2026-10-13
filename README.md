@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaustubhaChhanda/submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/KaustubhaChhanda/submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KaustubhaChhanda/submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2536-increment-submatrices-by-one](https://github.com/KaustubhaChhanda/submissions/tree/master/2536-increment-submatrices-by-one) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KaustubhaChhanda/submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/KaustubhaChhanda/submissions/tree/master/3668-restore-finishing-order) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KaustubhaChhanda/submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KaustubhaChhanda/submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KaustubhaChhanda/submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/KaustubhaChhanda/submissions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/KaustubhaChhanda/submissions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KaustubhaChhanda/submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KaustubhaChhanda/submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/KaustubhaChhanda/submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KaustubhaChhanda/submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
