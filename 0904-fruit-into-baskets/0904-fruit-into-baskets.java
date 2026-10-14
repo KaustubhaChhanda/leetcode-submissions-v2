@@ -1,31 +1,45 @@
 class Solution {
     public int totalFruit(int[] fruits) {
         int max = 0, left = 0;
-        Map<Integer, Integer> map = new HashMap<>();
+        int type1 = -1, type2 = -1;
+        int type1Count = 0, type2Count = 0;
 
         for (int right = 0; right < fruits.length; right++) {
             int fruit = fruits[right];
-            map.put(fruit, map.getOrDefault(fruit, 0) + 1);
 
-            if (map.size() <= 2) {
-                int total = 0;
-
-                for (int key : map.keySet()) {
-                    total += map.get(key);
-                }
-
-                max = Math.max(max, total);
+            if (fruit == type1) {
+                type1Count++;
+            } else if (fruit == type2) {
+                type2Count++;
+            } else if (type1Count == 0) {
+                type1 = fruit;
+                type1Count = 1;
+            } else if (type2Count == 0) {
+                type2 = fruit;
+                type2Count = 1;
             } else {
-                while (left <= right && map.size() > 2) {
-                    if (map.get(fruits[left]) > 1) {
-                        map.put(fruits[left], map.get(fruits[left]) - 1);
+                while (type1Count > 0 && type2Count > 0) {
+                    int leftFruit = fruits[left];
+
+                    if (leftFruit == type1) {
+                        type1Count--;
                     } else {
-                        map.remove(fruits[left]);
+                        type2Count--;
                     }
 
                     left++;
                 }
+
+                if (type1Count == 0) {
+                    type1 = fruit;
+                    type1Count = 1;
+                } else {
+                    type2 = fruit;
+                    type2Count = 1;
+                }
             }
+
+            max = Math.max(max, right - left + 1);
         }
 
         return max;
