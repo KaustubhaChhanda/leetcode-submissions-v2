@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KaustubhaChhanda/submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KaustubhaChhanda/submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KaustubhaChhanda/submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KaustubhaChhanda/submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KaustubhaChhanda/submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0509-fibonacci-number) |
 ## Game Theory
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaustubhaChhanda/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KaustubhaChhanda/submissions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaustubhaChhanda/submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/KaustubhaChhanda/submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaustubhaChhanda/submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/KaustubhaChhanda/submissions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
