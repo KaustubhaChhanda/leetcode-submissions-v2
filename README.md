@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaustubhaChhanda/submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/KaustubhaChhanda/submissions/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KaustubhaChhanda/submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/0209-minimum-size-subarray-sum) |
