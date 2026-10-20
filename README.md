@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KaustubhaChhanda/submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KaustubhaChhanda/submissions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaustubhaChhanda/submissions/tree/master/0283-move-zeroes) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/KaustubhaChhanda/submissions/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/KaustubhaChhanda/submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/KaustubhaChhanda/submissions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KaustubhaChhanda/submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0867-transpose-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0867-transpose-matrix) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KaustubhaChhanda/submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KaustubhaChhanda/submissions/tree/master/0367-valid-perfect-square) |
