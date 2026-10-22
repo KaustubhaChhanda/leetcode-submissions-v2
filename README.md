@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/KaustubhaChhanda/submissions/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/KaustubhaChhanda/submissions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KaustubhaChhanda/submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaustubhaChhanda/submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaustubhaChhanda/submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/KaustubhaChhanda/submissions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/KaustubhaChhanda/submissions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/KaustubhaChhanda/submissions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaustubhaChhanda/submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/2390-removing-stars-from-a-string) |
 | [3838-weighted-word-mapping](https://github.com/KaustubhaChhanda/submissions/tree/master/3838-weighted-word-mapping) |
