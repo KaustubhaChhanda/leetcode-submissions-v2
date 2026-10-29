@@ -1,25 +1,32 @@
 class Solution {
     public String minWindow(String s, String t) {
-        Map<Character, Integer> tmap = new HashMap<>();
+        int[] tmap = new int[52];
 
         for (char ch : t.toCharArray()) {
-            tmap.put(ch, tmap.getOrDefault(ch, 0) + 1);
+            tmap[getIndex(ch)]++;
         }
 
         int minLen = Integer.MAX_VALUE;
         String substr = "";
 
         int left = 0;
-        Map<Character, Integer> smap = new HashMap<>();
-        int have = 0, need = tmap.size();
+        int[] smap = new int[52];
+        int have = 0, need = 0;
+
+        for (int count : tmap) {
+            if (count > 0) {
+                need++;
+            }
+        }
 
         for (int right = 0; right < s.length(); right++) {
             char ch = s.charAt(right);
+            int idx = getIndex(ch);
 
-            if (tmap.containsKey(ch)) {
-                smap.put(ch, smap.getOrDefault(ch, 0) + 1);
+            if (tmap[idx] > 0) {
+                smap[idx]++;
 
-                if (tmap.get(ch).equals(smap.get(ch))) {
+                if (tmap[idx] == smap[idx]) {
                     have++;
                 }
             }
@@ -31,16 +38,13 @@ class Solution {
                 }
 
                 char remove = s.charAt(left);
+                int removeIdx = getIndex(remove);
 
-                if (tmap.containsKey(remove)) {
-                    smap.put(remove, smap.get(remove) - 1);
+                if (tmap[removeIdx] > 0) {
+                    smap[removeIdx]--;
 
-                    if (smap.get(remove) < tmap.get(remove)) {
+                    if (smap[removeIdx] < tmap[removeIdx]) {
                         have--;
-                    }
-
-                    if (smap.get(remove) == 0) {
-                        smap.remove(remove);
                     }
                 }
 
@@ -49,5 +53,12 @@ class Solution {
         }
 
         return substr;
+    }
+
+    private int getIndex(char ch) {
+        if (ch >= 'a' && ch <= 'z') {
+            return ch - 'a';
+        }
+        return ch - 'A' + 26;
     }
 }
