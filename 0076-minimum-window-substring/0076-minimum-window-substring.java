@@ -11,12 +11,20 @@ class Solution {
 
         int left = 0;
         Map<Character, Integer> smap = new HashMap<>();
+        int have = 0, need = tmap.size();
 
         for (int right = 0; right < s.length(); right++) {
             char ch = s.charAt(right);
-            smap.put(ch, smap.getOrDefault(ch, 0) + 1);
 
-            while (left <= right && isValid(smap, tmap)) {
+            if (tmap.containsKey(ch)) {
+                smap.put(ch, smap.getOrDefault(ch, 0) + 1);
+
+                if (tmap.get(ch).equals(smap.get(ch))) {
+                    have++;
+                }
+            }
+
+            while (left <= right && have == need) {
                 if (right - left + 1 < minLen) {
                     minLen = right - left + 1;
                     substr = s.substring(left, right + 1);
@@ -24,10 +32,16 @@ class Solution {
 
                 char remove = s.charAt(left);
 
-                if (smap.get(remove) > 1) {
+                if (tmap.containsKey(remove)) {
                     smap.put(remove, smap.get(remove) - 1);
-                } else {
-                    smap.remove(remove);
+
+                    if (smap.get(remove) < tmap.get(remove)) {
+                        have--;
+                    }
+
+                    if (smap.get(remove) == 0) {
+                        smap.remove(remove);
+                    }
                 }
 
                 left++;
@@ -35,15 +49,5 @@ class Solution {
         }
 
         return substr;
-    }
-
-    private boolean isValid(Map<Character, Integer> smap, Map<Character, Integer> tmap) {
-        for (char ch : tmap.keySet()) {
-            if (!smap.containsKey(ch) || smap.get(ch) < tmap.get(ch)) {
-                return false;
-            }
-        }
-
-        return true;
     }
 }
