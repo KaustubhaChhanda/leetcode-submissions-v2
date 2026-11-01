@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KaustubhaChhanda/submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1014-best-sightseeing-pair](https://github.com/KaustubhaChhanda/submissions/tree/master/1014-best-sightseeing-pair) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/0978-longest-turbulent-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/KaustubhaChhanda/submissions/tree/master/1014-best-sightseeing-pair) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KaustubhaChhanda/submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
