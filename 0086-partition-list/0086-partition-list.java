@@ -11,27 +11,25 @@
 class Solution {
     public ListNode partition(ListNode head, int x) {
         ListNode less = new ListNode(0);
-        ListNode greatOrEqual = new ListNode(0);
+        ListNode greater = new ListNode(0);
 
-        ListNode t1 = less;
-        ListNode t2 = greatOrEqual;
-        ListNode t3 = head;
+        ListNode l = less;
+        ListNode g = greater;
 
-        while (t3 != null) {
-            if (t3.val < x) {
-                t1.next = t3;
-                t1 = t1.next;
+        while (head != null) {
+            if (head.val < x) {
+                l.next = head;
+                l = l.next;
             } else {
-                t2.next = t3;
-                t2 = t2.next;
+                g.next = head;
+                g = g.next;
             }
 
-            ListNode next = t3.next;
-            t3.next = null;
-            t3 = next;
+            head = head.next;
         }
 
-        t1.next = greatOrEqual.next;
+        g.next = null;
+        l.next = greater.next;
 
         return less.next;
     }
