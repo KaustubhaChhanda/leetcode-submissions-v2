@@ -10,27 +10,40 @@ class Node {
 
 class Solution {
     public Node flatten(Node head) {
-        return flattenList(head, null);
+        flattenDFS(head);
+        return head;
     }
 
-    private Node flattenList(Node head, Node prev) {
-        if (head == null) {
-            return head;
+    private Node flattenDFS(Node node) {
+        Node curr = node;
+        Node last = node;
+
+        while (curr != null) {
+            Node next = curr.next;
+
+            if (curr.child != null) {
+                Node child = curr.child;
+
+                Node childTail = flattenDFS(child);
+
+                curr.next = child;
+                child.prev = curr;
+                curr.child = null;
+
+                childTail.next = next;
+
+                if (next != null) {
+                    next.prev = childTail;
+                }
+
+                last = childTail;
+            } else {
+                last = curr;
+            }
+
+            curr = next;
         }
 
-        head.prev = prev;
-
-        Node next = head.next;
-        Node tail  = head;
-        tail.next = flattenList(tail.child, tail);
-        tail = head;
-        
-        while (tail.next != null) {
-            tail = tail.next;
-        }
-
-        tail.next = flattenList(next, tail);
-        head.child = null;
-        return head;
+        return last;
     }
 }
