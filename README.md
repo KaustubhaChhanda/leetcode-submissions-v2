@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KaustubhaChhanda/submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KaustubhaChhanda/submissions/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0572-subtree-of-another-tree) |
 | [3310-remove-methods-from-project](https://github.com/KaustubhaChhanda/submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/KaustubhaChhanda/submissions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0707-design-linked-list) |
@@ -814,4 +816,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
