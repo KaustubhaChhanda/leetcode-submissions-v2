@@ -1,24 +1,27 @@
 class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int n = position.length;
+        int[][] cars = new int[n][2];
 
-        for (int i = 0; i < position.length; i++) {
-            map.put(position[i], speed[i]);
+        for (int i = 0; i < n; i++) {
+            cars[i][0] = position[i];
+            cars[i][1] = speed[i];
         }
 
-        Arrays.sort(position);
-        
-        double[] stack = new double[position.length];
-        int top = -1;
+        Arrays.sort(cars, (a, b) -> b[0] - a[0]);
 
-        for (int i = position.length - 1; i >= 0; i--) {
-            double time = (double) (target - position[i]) / map.get(position[i]);
+        double prevTime = 0;
+        int fleets = 0;
 
-            if (top == -1 || time > stack[top]) {
-                stack[++top] = time;
+        for (int[] car : cars) {
+            double time = (double) (target - car[0]) / car[1];
+
+            if (time > prevTime) {
+                fleets++;
+                prevTime = time;
             }
         }
 
-        return top + 1;
+        return fleets;
     }
 }
