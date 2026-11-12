@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/KaustubhaChhanda/submissions/tree/master/0443-string-compression) |
 | [0535-encode-and-decode-tinyurl](https://github.com/KaustubhaChhanda/submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/KaustubhaChhanda/submissions/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0767-reorganize-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/KaustubhaChhanda/submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0877-stone-game) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KaustubhaChhanda/submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/KaustubhaChhanda/submissions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KaustubhaChhanda/submissions/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/KaustubhaChhanda/submissions/tree/master/0881-boats-to-save-people) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaustubhaChhanda/submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
