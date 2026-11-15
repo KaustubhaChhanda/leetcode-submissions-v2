@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KaustubhaChhanda/submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KaustubhaChhanda/submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0525-contiguous-array) |
 | [0636-exclusive-time-of-functions](https://github.com/KaustubhaChhanda/submissions/tree/master/0636-exclusive-time-of-functions) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/KaustubhaChhanda/submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KaustubhaChhanda/submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/KaustubhaChhanda/submissions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KaustubhaChhanda/submissions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
 ## Interactive
