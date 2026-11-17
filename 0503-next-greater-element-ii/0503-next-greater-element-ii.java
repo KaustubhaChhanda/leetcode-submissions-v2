@@ -6,18 +6,19 @@ class Solution {
             twice[i] = nums[i % nums.length];
         }
 
-        Stack<Integer> stack = new Stack<>();
+        int[] stack = new int[twice.length];
+        int top = -1;
 
         for (int i = 0; i < twice.length; i++) {
-            while (!stack.isEmpty() && twice[i] > twice[stack.peek()]) {
-                twice[stack.pop()] = twice[i];
+            while (top != -1 && twice[i] > twice[stack[top]]) {
+                twice[stack[top--]] = twice[i];
             }
 
-            stack.push(i);
+            stack[++top] = i;
         }
 
-        while (!stack.isEmpty()) {
-            twice[stack.pop()] = -1;
+        while (top != -1) {
+            twice[stack[top--]] = -1;
         }
 
         return Arrays.copyOfRange(twice, 0, nums.length);
