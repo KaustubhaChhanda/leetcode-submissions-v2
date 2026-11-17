@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KaustubhaChhanda/submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0525-contiguous-array) |
 | [0636-exclusive-time-of-functions](https://github.com/KaustubhaChhanda/submissions/tree/master/0636-exclusive-time-of-functions) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/KaustubhaChhanda/submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KaustubhaChhanda/submissions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KaustubhaChhanda/submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
