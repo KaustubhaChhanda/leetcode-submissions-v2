@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KaustubhaChhanda/submissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaustubhaChhanda/submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1021-remove-outermost-parentheses) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/KaustubhaChhanda/submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/KaustubhaChhanda/submissions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/KaustubhaChhanda/submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KaustubhaChhanda/submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Interactive
 |  |
@@ -867,4 +870,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
