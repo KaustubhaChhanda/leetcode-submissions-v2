@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KaustubhaChhanda/submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KaustubhaChhanda/submissions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/KaustubhaChhanda/submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/KaustubhaChhanda/submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KaustubhaChhanda/submissions/tree/master/0257-binary-tree-paths) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaustubhaChhanda/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/KaustubhaChhanda/submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/KaustubhaChhanda/submissions/tree/master/0367-valid-perfect-square) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/KaustubhaChhanda/submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/KaustubhaChhanda/submissions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KaustubhaChhanda/submissions/tree/master/0509-fibonacci-number) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KaustubhaChhanda/submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaustubhaChhanda/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KaustubhaChhanda/submissions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/KaustubhaChhanda/submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
