@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaustubhaChhanda/submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/KaustubhaChhanda/submissions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/KaustubhaChhanda/submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/KaustubhaChhanda/submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/KaustubhaChhanda/submissions/tree/master/0636-exclusive-time-of-functions) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KaustubhaChhanda/submissions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KaustubhaChhanda/submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/KaustubhaChhanda/submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KaustubhaChhanda/submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaustubhaChhanda/submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KaustubhaChhanda/submissions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
@@ -883,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
