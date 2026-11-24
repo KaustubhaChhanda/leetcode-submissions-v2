@@ -4,26 +4,27 @@ class Solution {
             return "0";
         }
 
-        Stack<Character> stack = new Stack<>();
+        char[] stack = new char[num.length()];
+        int top = -1;
 
         for (char ch : num.toCharArray()) {
-            while (!stack.isEmpty() && k > 0 && ch < stack.peek()) {
-                stack.pop();
+            while (top != -1 && k > 0 && ch < stack[top]) {
+                top--;
                 k--;
             }
 
-            stack.push(ch);
+            stack[++top] = ch;
         }
 
         while (k != 0) {
-            stack.pop();
+            top--;
             k--;
         }
 
         StringBuilder sb = new StringBuilder();
 
-        while (!stack.isEmpty()) {
-            sb.insert(0, stack.pop());
+        while (top != -1) {
+            sb.insert(0, stack[top--]);
         }
 
         while (!sb.isEmpty() && sb.charAt(0) == '0') {
