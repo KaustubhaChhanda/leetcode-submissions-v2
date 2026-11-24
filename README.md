@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KaustubhaChhanda/submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/KaustubhaChhanda/submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/KaustubhaChhanda/submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/KaustubhaChhanda/submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/KaustubhaChhanda/submissions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/KaustubhaChhanda/submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/KaustubhaChhanda/submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/KaustubhaChhanda/submissions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KaustubhaChhanda/submissions/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KaustubhaChhanda/submissions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/KaustubhaChhanda/submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/KaustubhaChhanda/submissions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/KaustubhaChhanda/submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KaustubhaChhanda/submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0503-next-greater-element-ii) |
