@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/KaustubhaChhanda/submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-best-sightseeing-pair](https://github.com/KaustubhaChhanda/submissions/tree/master/1014-best-sightseeing-pair) |
+| [1019-next-greater-node-in-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KaustubhaChhanda/submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/KaustubhaChhanda/submissions/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/KaustubhaChhanda/submissions/tree/master/1406-stone-game-iii) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaustubhaChhanda/submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0946-validate-stack-sequences) |
+| [1019-next-greater-node-in-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KaustubhaChhanda/submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KaustubhaChhanda/submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/KaustubhaChhanda/submissions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/KaustubhaChhanda/submissions/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KaustubhaChhanda/submissions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KaustubhaChhanda/submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KaustubhaChhanda/submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Interactive
 |  |
