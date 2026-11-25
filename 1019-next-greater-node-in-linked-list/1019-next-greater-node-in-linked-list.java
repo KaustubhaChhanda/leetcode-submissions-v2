@@ -27,21 +27,21 @@ class Solution {
             tail = tail.next;
         }
 
-        Stack<Integer> stack = new Stack<>();
+        int[] stack = new int[len];
+        int top = -1;
 
         for (int i = 0; i < len; i++) {
-            while (!stack.isEmpty() && ans[i] > ans[stack.peek()]) {
-                ans[stack.pop()] = ans[i];
+            while (top != -1 && ans[i] > ans[stack[top]]) {
+                ans[stack[top--]] = ans[i];
             }
 
-            stack.push(i);
+            stack[++top] = i;
         }
 
-        while (!stack.isEmpty()) {
-            ans[stack.pop()] = 0;
+        while (top != -1) {
+            ans[stack[top--]] = 0;
         }
 
         return ans;
-
     }
 }
