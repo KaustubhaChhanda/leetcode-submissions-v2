@@ -1,5 +1,6 @@
 class RecentCounter {
     int[] q = new int[10000];
+    int front = 0;
     int rear = -1;
 
     public RecentCounter() {
@@ -9,15 +10,11 @@ class RecentCounter {
     public int ping(int t) {
         q[++rear] = t;
 
-        int temp = rear;
-        int count = 0;
-
-        while (temp >= 0 && q[temp] >= t - 3000) {
-            count++;
-            temp--;
+        while (front <= rear && q[front] < t - 3000) {
+            front++;
         }
 
-        return count;
+        return rear - front + 1;
     }
 }
 
