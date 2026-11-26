@@ -1,19 +1,21 @@
 class Solution {
     public int[] canSeePersonsCount(int[] heights) {
-        Stack<Integer> stack = new Stack<>();
-        int[] ans = new int[heights.length];
+        int n = heights.length;
+        int[] ans = new int[n];
+        int[] stack = new int[n];
+        int top = -1;
 
-        for (int i = heights.length - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && heights[i] > heights[stack.peek()]) {
-                stack.pop();
+        for (int i = n - 1; i >= 0; i--) {
+            while (top != -1 && heights[i] > heights[stack[top]]) {
+                top--;
                 ans[i]++;
             }
 
-            if (!stack.isEmpty()) {
+            if (top != -1) {
                 ans[i]++;
             }
 
-            stack.push(i);
+            stack[++top] = i;
         }
 
         return ans;
