@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KaustubhaChhanda/submissions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaustubhaChhanda/submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/KaustubhaChhanda/submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KaustubhaChhanda/submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 | [0843-guess-the-word](https://github.com/KaustubhaChhanda/submissions/tree/master/0843-guess-the-word) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KaustubhaChhanda/submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KaustubhaChhanda/submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KaustubhaChhanda/submissions/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KaustubhaChhanda/submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/KaustubhaChhanda/submissions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KaustubhaChhanda/submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/KaustubhaChhanda/submissions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaustubhaChhanda/submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KaustubhaChhanda/submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KaustubhaChhanda/submissions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/KaustubhaChhanda/submissions/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/KaustubhaChhanda/submissions/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KaustubhaChhanda/submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/KaustubhaChhanda/submissions/tree/master/0792-number-of-matching-subsequences) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/KaustubhaChhanda/submissions/tree/master/0881-boats-to-save-people) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KaustubhaChhanda/submissions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/KaustubhaChhanda/submissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/KaustubhaChhanda/submissions/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KaustubhaChhanda/submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/KaustubhaChhanda/submissions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/KaustubhaChhanda/submissions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/KaustubhaChhanda/submissions/tree/master/1019-next-greater-node-in-linked-list) |
